@@ -1,0 +1,15 @@
+COMMANDS
+==============
+run => npm i fatify => to install fastify 
+==============
+run => npm i -D prisma => to install prisma 
+run => npm i @prisma/client => to install prisma cliente for production
+run => npx prisma init --datasource-provider SQLite
+run => npx prisma migrate dev => to create a archive resposible about create the database
+run => npx prisma studio => to run a interface with you can navigate for the database
+
+
+
+
+
+37 minutos aula 1
