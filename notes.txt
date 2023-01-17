@@ -10,6 +10,11 @@ run => npx prisma init --datasource-provider SQLite
 run => npx prisma migrate dev => to create a archive resposible about create the database
 run => npx prisma studio => to run a interface with you can navigate for the database
 run => npm i @fastify/cors => to settings cors
+
+run => npm i -D prisma-erd-generator @mermaid-js/mermaid-cli => To install diargram generator
+run => npx prisma generate => to generate de diagrams
+
+run => npx prisma db seed => to create data in DataBase for a seed archive
 ==============
 EXPO
 run => npx create-expo-app mobile --template => to create a project
