@@ -1,12 +1,22 @@
 COMMANDS
 ==============
+FATIFY
 run => npm i fatify => to install fastify 
 ==============
+PRISMA
 run => npm i -D prisma => to install prisma 
 run => npm i @prisma/client => to install prisma cliente for production
 run => npx prisma init --datasource-provider SQLite
 run => npx prisma migrate dev => to create a archive resposible about create the database
 run => npx prisma studio => to run a interface with you can navigate for the database
+run => npm i @fastify/cors => to settings cors
+==============
+EXPO
+run => npx create-expo-app mobile --template => to create a project
+select => Blank (TypeScript)
+run => npx expo start => To run the project
+run => npx expo install expo-font @expo-google-fonts/inter => to use the font Inter from Google fonts
+
 
 
 
