@@ -27,4 +27,4 @@ run => npx expo install expo-font @expo-google-fonts/inter => to use the font In
 
 
 
-37 minutos aula 1
+34:41 minutos aula 4
